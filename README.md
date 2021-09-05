@@ -29,7 +29,7 @@
 <hr>
 
 ![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arminazimi&show_icons=true&theme=dracula)
-<img align="center" alt="wallpaper" src="https://github.com/arminazimi/arminazimi/blob/main/BELGIUM.png"/>
+<img align="left" alt="wallpaper" src="https://github.com/arminazimi/arminazimi/blob/main/BELGIUM.png"  width="150px"  height="100px" />
 <br>
 # Technologies & Tools
 
