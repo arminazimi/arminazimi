@@ -6,7 +6,7 @@ https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&l
 
 
 <a href="https://www.linkedin.com/in/armin-azimi/">
-  <img align="left" alt="Armin Azimi's LinkedIN" width="22px" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img align="left" alt="Armin Azimi's LinkedIN" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/armin-azimi/">
   <img align="left" alt="Armin Azimi's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
