@@ -34,7 +34,7 @@ https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololear
 ![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arminazimi&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminazimi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[s](https://github-readme-streak-stats.herokuapp.com/?user=arminazimi)
+![s](https://github-readme-streak-stats.herokuapp.com/?user=arminazimi)
 
 
 
