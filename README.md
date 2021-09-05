@@ -3,7 +3,7 @@
 <p>I'm Armin and I'm a Software Engineer. I'm a self-taught programmer and I'm always looking for new challenges. I have a passion for programming and I'm always trying to learn new things. I have a strong desire to learn and I'm always trying to improve my skills. I started programming with Python and Django Framework. These days I'm working with Golang . so here we Go :)</p>
 
 <a href="https://www.linkedin.com/in/armin-azimi/">
-  <img align="left" alt="Armin Azimi's LinkedIN" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" width="65px" />
+  <img align="left" alt="Armin Azimi's LinkedIN" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" width="75px" />
 </a>
 
 <a href="https://www.linkedin.com/in/armin-azimi/">
