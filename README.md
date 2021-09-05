@@ -30,6 +30,9 @@
 
 ![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arminazimi&show_icons=true&theme=dracula)
 <br>
+# Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminazimi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
