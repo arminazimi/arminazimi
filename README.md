@@ -29,7 +29,7 @@
 <hr>
 
 ![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arminazimi&show_icons=true&theme=dracula)
-<hr>
+<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminazimi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
