@@ -6,17 +6,17 @@
 <a href="https://www.linkedin.com/in/armin-azimi/">
   <img align="left" alt="Armin Azimi's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="80px"  height="25px" />
 </a>
-<a href="https://join.skype.com/invite/hzWnNNaIMNO5">
-  <img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" width="80px"  height="25px" />
-</a>
-<a href="https://www.instagram.com/ar3enick/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  width="80px"  height="25px" />
-</a>
 <a href="https://stackoverflow.com/users/11160927/armin-azimi">
   <img align="left" alt="Stack_Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"  width="80px"  height="25px" />
 </a>
 <a href="https://www.sololearn.com/profile/6371063">
   <img align="left" alt="Sololearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"  width="80px"  height="25px" />
+</a>
+<a href="https://www.instagram.com/ar3enick/">
+  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  width="80px"  height="25px" />
+</a>
+<a href="https://join.skype.com/invite/hzWnNNaIMNO5">
+  <img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" width="80px"  height="25px" />
 </a>
 <a href="https://api.whatsapp.com/send?phone=9809128582848">
   <img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  width="80px"  height="25px" />
