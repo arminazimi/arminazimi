@@ -26,7 +26,7 @@
 </a>
 
 <br>
-<hr>
+
 
 ![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arminazimi&show_icons=true&theme=dracula)
 <br>
