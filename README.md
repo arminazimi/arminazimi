@@ -48,8 +48,9 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminazimi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<p>
+
+<div>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arminazimi&repo=my-certificates&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-<p>
+</div>
 
 
