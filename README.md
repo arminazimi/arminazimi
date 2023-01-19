@@ -1,4 +1,4 @@
-# Hi there, I'm [Armin](https://arminazimi.github.io/p/) 👋
+# Hi there, I'm [Armin](https://flowcv.me/armin-azimi) 👋
 
 <p>I'm Armin and I'm a Software Engineer. I'm a self-taught programmer and I'm always looking for new challenges. I have a passion for programming and I'm always trying to learn new things. I have a strong desire to learn and I'm always trying to improve my skills. I started programming with Python and Django Framework. These days I'm working with Golang . so here we Go :)</p>
 
@@ -28,8 +28,6 @@
 <br>
 <hr>
 
-![Armin's GitHub stats](https://github-readme-stats.vercel.app/api?username=arminazimi&show_icons=true&theme=dracula)
-<img align="right" alt="wallpaper" src="https://github.com/arminazimi/arminazimi/blob/main/BELGIUM.png"  width="300px"  height="250px" />
 <br>
 # Technologies & Tools
 
@@ -42,12 +40,10 @@
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <br>
 ![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arminazimi&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=arminazimi&repo=my-certificates&theme=dracula)](https://github.com/arminazimi/my-certificates)
 
 
 
