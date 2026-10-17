@@ -1,39 +1,38 @@
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Abstract signal paths">
+</p>
+
 <div align="center">
 
 # Armin Azimi
 
-### I build tools that help software—and agents—understand change.
+### Building calm tools for noisy systems.
 
-Developer tooling · Agent infrastructure · Distributed systems
+Software engineer · Open-source builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-azimi/)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-111111?style=flat-square&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/11160927/armin-azimi)
 
 </div>
 
----
+### Selected work
 
-### Building
+<table>
+  <tr>
+    <td width="112" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arminazimi/evergreen/main/brand/exports/marketplace-logo-dark.png">
+        <img src="https://raw.githubusercontent.com/arminazimi/evergreen/main/brand/exports/marketplace-logo-light.png" width="88" alt="Evergreen logo">
+      </picture>
+    </td>
+    <td>
+      <h3><a href="https://github.com/arminazimi/evergreen">Evergreen</a></h3>
+      <p>Local-first lifecycle intelligence for software repositories.</p>
+      <p>Evergreen finds deprecated runtimes, packages, and GitHub Actions at exact locations, backs every finding with authoritative evidence, and prepares migration context for humans and agents. Scans stay offline—repository code never leaves the machine.</p>
+      <sub>CLI · MCP server · GitHub Action · Agent Skill</sub>
+    </td>
+  </tr>
+</table>
 
-| Project | What it does |
-| :--- | :--- |
-| [**Evergreen**](https://github.com/arminazimi/evergreen) | Local-first lifecycle intelligence for software repositories. |
-| [**Showbranch**](https://github.com/arminazimi/showbranch) | Turns public GitHub work into beautiful, safely managed portfolios. |
-| [**CineGraph**](https://github.com/arminazimi/CineGraph) | A local-first narrative knowledge engine for AI agents. |
-
-### Working with
-
-![Go](https://img.shields.io/badge/Go-111111?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white)
-
-### How I like to build
-
-```text
-evidence over guesses
-systems over demos
-local-first when it matters
-```
-
-I care about software that stays understandable as it grows—clear boundaries, deterministic behavior, and tools that are useful to both humans and agents.
+<p align="center">
+  <sub><em>If it can fail, it should explain why.</em></sub>
+</p>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Abstract signal paths</title>
+  <desc id="desc">A minimal field of converging signal paths in burgundy, rose, and pine.</desc>
+  <defs>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0A0C"/>
+      <stop offset="1" stop-color="#170A0F"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#571729" stop-opacity="0"/>
+      <stop offset="0.42" stop-color="#8F3048"/>
+      <stop offset="1" stop-color="#B96779"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F3ECE8" stroke-opacity="0.045"/>
+    </pattern>
+    <clipPath id="frame"><rect width="1200" height="220" rx="24"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="220" fill="url(#canvas)"/>
+    <rect width="1200" height="220" fill="url(#grid)"/>
+
+    <g fill="none" stroke="url(#signal)" stroke-linecap="round">
+      <path d="M-80 190C180 190 230 42 470 42S735 176 960 110s244-66 340-66" stroke-width="2"/>
+      <path d="M-40 216C210 216 274 76 480 76s272 104 450 52 248-86 350-86" stroke-width="1.25" opacity="0.72"/>
+      <path d="M30 238C250 238 320 112 506 112s246 72 406 38 260-118 360-118" stroke-width="1" opacity="0.42"/>
+    </g>
+
+    <circle cx="960" cy="110" r="5" fill="#365C4C"/>
+    <circle cx="960" cy="110" r="12" fill="none" stroke="#365C4C" stroke-opacity="0.35"/>
+    <path d="M965 110H1200" stroke="#365C4C" stroke-width="1" stroke-dasharray="3 8" opacity="0.55"/>
+
+    <g fill="#F3ECE8" opacity="0.32">
+      <circle cx="470" cy="42" r="2"/>
+      <circle cx="480" cy="76" r="2"/>
+      <circle cx="506" cy="112" r="2"/>
+    </g>
+  </g>
+</svg>
