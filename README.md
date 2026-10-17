@@ -1,48 +1,38 @@
-# Hi there, I'm [Armin](https://flowcv.me/armin-azimi) 👋
+<p align="center">
+  <img src="./assets/profile-header.svg" width="100%" alt="Abstract signal paths">
+</p>
 
-<p>I'm Armin and I'm a Software Engineer. I'm a self-taught programmer and I'm always looking for new challenges. I have a passion for programming and I'm always trying to learn new things. I have a strong desire to learn and I'm always trying to improve my skills. I started programming with Python and Django Framework. These days I'm working with Golang . so here we Go :)</p>
+<div align="center">
 
+# Armin Azimi
 
-<a href="https://www.linkedin.com/in/armin-azimi/">
-  <img align="left" alt="Armin Azimi's LinkedIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"  width="80px"  height="25px" />
-</a>
-<a href="https://stackoverflow.com/users/11160927/armin-azimi">
-  <img align="left" alt="Stack_Overflow" src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"  width="80px"  height="25px" />
-</a>
-<a href="https://www.sololearn.com/profile/6371063">
-  <img align="left" alt="Sololearn" src="https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white"  width="80px"  height="25px" />
-</a>
-<a href="https://www.instagram.com/ar3enick/">
-  <img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  width="80px"  height="25px" />
-</a>
-<a href="https://join.skype.com/invite/hzWnNNaIMNO5">
-  <img align="left" alt="Skype" src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" width="80px"  height="25px" />
-</a>
-<a href="https://api.whatsapp.com/send?phone=9809128582848">
-  <img align="left" alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"  width="80px"  height="25px" />
-</a>
-<a href="https://t.me/Arminimum">
-  <img align="left" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"  width="80px"  height="25px" />
-</a>
+### Building calm tools for noisy systems.
 
-<br>
-<hr>
+Software engineer · Open-source builder
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-azimi/)
 
+</div>
 
+### Selected work
 
+<table>
+  <tr>
+    <td width="112" align="center">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arminazimi/evergreen/main/brand/exports/marketplace-logo-dark.png">
+        <img src="https://raw.githubusercontent.com/arminazimi/evergreen/main/brand/exports/marketplace-logo-light.png" width="88" alt="Evergreen logo">
+      </picture>
+    </td>
+    <td>
+      <h3><a href="https://github.com/arminazimi/evergreen">Evergreen</a></h3>
+      <p>Local-first lifecycle intelligence for software repositories.</p>
+      <p>Evergreen finds deprecated runtimes, packages, and GitHub Actions at exact locations, backs every finding with authoritative evidence, and prepares migration context for humans and agents. Scans stay offline—repository code never leaves the machine.</p>
+      <sub>CLI · MCP server · GitHub Action · Agent Skill</sub>
+    </td>
+  </tr>
+</table>
 
-
-![](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
-
-
-
+<p align="center">
+  <sub><em>If it can fail, it should explain why.</em></sub>
+</p>
