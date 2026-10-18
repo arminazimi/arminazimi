@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/profile-header.svg" width="100%" alt="Abstract signal paths">
-</p>
-
 <div align="center">
 
 # Armin Azimi
@@ -14,25 +10,56 @@ Software engineer · Open-source builder
 
 </div>
 
-### Selected work
+### On the workbench
+
+A few things I’m building for people and the agents they work with.
 
 <table>
   <tr>
     <td width="112" align="center">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/arminazimi/evergreen/main/brand/exports/marketplace-logo-dark.png">
-        <img src="https://raw.githubusercontent.com/arminazimi/evergreen/main/brand/exports/marketplace-logo-light.png" width="88" alt="Evergreen logo">
-      </picture>
+      <img src="./assets/evergreen-dark.png" width="88" alt="Evergreen logo">
     </td>
     <td>
       <h3><a href="https://github.com/arminazimi/evergreen">Evergreen</a></h3>
-      <p>Local-first lifecycle intelligence for software repositories.</p>
+      <p><strong>Keep your stack evergreen.</strong></p>
       <p>Evergreen finds deprecated runtimes, packages, and GitHub Actions at exact locations, backs every finding with authoritative evidence, and prepares migration context for humans and agents. Scans stay offline—repository code never leaves the machine.</p>
       <sub>CLI · MCP server · GitHub Action · Agent Skill</sub>
     </td>
   </tr>
+  <tr>
+    <td width="112" align="center">
+      <img src="./assets/seaworthy-dark.png" width="88" alt="Seaworthy logo">
+    </td>
+    <td>
+      <h3><a href="https://github.com/arminazimi/seaworthy">Seaworthy</a></h3>
+      <p><strong>Ship sites agents can trust.</strong></p>
+      <p>A verification toolkit in development for built static sites, designed to give coding agents actionable findings with stable IDs, exact locations, and fix hints.</p>
+      <sub>Pre-alpha · Static-site verification · Agent tooling</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="112" align="center">
+      <img src="./assets/slipway-dark.png" width="88" alt="Slipway logo">
+    </td>
+    <td>
+      <h3><a href="https://github.com/arminazimi/slipway">Slipway</a></h3>
+      <p><strong>Build on Slipway. Ship Seaworthy.</strong></p>
+      <p>A planned GitHub Pages template designed for agents, with Persian and Arabic RTL support, structured content, and Seaworthy verification.</p>
+      <sub>Planning · GitHub Pages · RTL · Agent-native sites</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="112" align="center">
+      <img src="./assets/oakum-dark.png" width="88" alt="Oakum logo">
+    </td>
+    <td>
+      <h3><a href="https://github.com/arminazimi/oakum">Oakum</a></h3>
+      <p><strong>Changes flow. State holds.</strong></p>
+      <p>A planned local testing tool for checking application-state consistency across databases, caches, and message brokers through fault injection and reproducible failure replays.</p>
+      <sub>Planning · State consistency · Fault injection · Reproducible failures</sub>
+    </td>
+  </tr>
 </table>
 
-<p align="center">
-  <sub><em>If it can fail, it should explain why.</em></sub>
-</p>
+<h2 align="center"><em>If it can fail, it should explain why.</em></h2>
+
