@@ -17,7 +17,10 @@ A few things I’m building for people and the agents they work with.
 <table>
   <tr>
     <td width="112" align="center">
-      <img src="./assets/evergreen-dark.png" width="88" alt="Evergreen logo">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/evergreen-mark-dark.svg">
+        <img src="./assets/evergreen-mark-light.svg" width="88" alt="Evergreen logo">
+      </picture>
     </td>
     <td>
       <h3><a href="https://github.com/arminazimi/evergreen">Evergreen</a></h3>
@@ -28,7 +31,10 @@ A few things I’m building for people and the agents they work with.
   </tr>
   <tr>
     <td width="112" align="center">
-      <img src="./assets/seaworthy-dark.png" width="88" alt="Seaworthy logo">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/seaworthy-mark-dark.svg">
+        <img src="./assets/seaworthy-mark-light.svg" width="88" alt="Seaworthy logo">
+      </picture>
     </td>
     <td>
       <h3><a href="https://github.com/arminazimi/seaworthy">Seaworthy</a></h3>
@@ -39,7 +45,10 @@ A few things I’m building for people and the agents they work with.
   </tr>
   <tr>
     <td width="112" align="center">
-      <img src="./assets/slipway-dark.png" width="88" alt="Slipway logo">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/slipway-mark-dark.svg">
+        <img src="./assets/slipway-mark-light.svg" width="88" alt="Slipway logo">
+      </picture>
     </td>
     <td>
       <h3><a href="https://github.com/arminazimi/slipway">Slipway</a></h3>
@@ -50,7 +59,10 @@ A few things I’m building for people and the agents they work with.
   </tr>
   <tr>
     <td width="112" align="center">
-      <img src="./assets/oakum-dark.png" width="88" alt="Oakum logo">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/oakum-mark-dark.svg">
+        <img src="./assets/oakum-mark-light.svg" width="88" alt="Oakum logo">
+      </picture>
     </td>
     <td>
       <h3><a href="https://github.com/arminazimi/oakum">Oakum</a></h3>
