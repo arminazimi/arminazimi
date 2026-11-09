@@ -7,49 +7,62 @@
 Software engineer · Open-source builder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-azimi/)
+[![Velella](https://img.shields.io/badge/org-velella--sh-3F6E66?style=flat-square&labelColor=1F1F28)](https://github.com/velella-sh)
 
 </div>
 
-### On the workbench
+---
 
-A few things I’m building for people and the agents they work with.
+## Now building
 
-<h3><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/evergreen-mark-dark.svg">
-  <img src="./assets/evergreen-mark-light.svg" width="32" align="absmiddle" alt="Evergreen logo">
-</picture>&nbsp;<a href="https://github.com/arminazimi/evergreen">Evergreen</a> — Keep your stack evergreen.</h3>
+<p align="center">
+  <a href="https://github.com/velella-sh/ebb">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/ebb/main/.github/assets/mark-night.svg">
+      <img src="https://raw.githubusercontent.com/velella-sh/ebb/main/.github/assets/mark-day.svg" width="72" height="72" alt="Ebb">
+    </picture>
+  </a>
+</p>
 
-Evergreen finds deprecated runtimes, packages, and GitHub Actions at exact locations, backs every finding with authoritative evidence, and prepares migration context for humans and agents. Scans stay offline—repository code never leaves the machine.
+<h3 align="center"><a href="https://github.com/velella-sh/ebb">Ebb</a></h3>
 
-<sub>CLI · MCP server · GitHub Action · Agent Skill</sub>
+<p align="center">
+  <strong>Nothing ships forever. Everything ebbs.</strong><br>
+  The open almanac of software end-of-life.
+</p>
 
-<h3><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/seaworthy-mark-dark.svg">
-  <img src="./assets/seaworthy-mark-light.svg" width="32" align="absmiddle" alt="Seaworthy logo">
-</picture>&nbsp;<a href="https://github.com/arminazimi/seaworthy">Seaworthy</a> — Ship sites agents can trust.</h3>
+<p align="center">
+  <a href="https://www.npmjs.com/package/@velella/ebb"><img alt="npm" src="https://img.shields.io/npm/v/@velella/ebb?label=npm&logo=npm&logoColor=white&labelColor=1F1F28&color=3F6E66&style=flat"></a>
+  <a href="https://github.com/velella-sh/ebb/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/velella-sh/ebb?logo=github&logoColor=white&labelColor=1F1F28&color=3F6E66&style=flat"></a>
+  <a href="https://github.com/velella-sh/ebb/tree/main/registry"><img alt="rules: 752" src="https://img.shields.io/badge/rules-752-3F6E66?labelColor=1F1F28&style=flat"></a>
+</p>
 
-A verification toolkit in development for built static sites, designed to give coding agents actionable findings with stable IDs, exact locations, and fix hints.
+Libraries die quietly. A runtime reaches end-of-life, a package gets deprecated, an Action is retired, and nobody tells the code that depends on it. Ebb is the tide table: an open, sourced dataset of what is ending, since when, and what to move to. Every rule cites where it came from, so a tool or a coding agent can answer **"is this still safe to depend on?"** with evidence instead of a guess.
 
-<sub>Pre-alpha · Static-site verification · Agent tooling</sub>
+```ts
+import { lookupProduct } from "@velella/ebb/lookup";
 
-<h3><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/slipway-mark-dark.svg">
-  <img src="./assets/slipway-mark-light.svg" width="32" align="absmiddle" alt="Slipway logo">
-</picture>&nbsp;<a href="https://github.com/arminazimi/slipway">Slipway</a> — Build on Slipway. Ship Seaworthy.</h3>
+const request = await lookupProduct("pkg:npm/request", "2.88.2");
+request.status;      // "deprecated"
+request.replacement; // "Native fetch or a maintained HTTP client"
+```
 
-A planned GitHub Pages template designed for agents, with Persian and Arabic RTL support, structured content, and Seaworthy verification.
+> Your agent's knowledge has a cutoff. Ebb doesn't.
 
-<sub>Planning · GitHub Pages · RTL · Agent-native sites</sub>
+**752 rules · 25 ecosystems · works offline · TypeScript, ESM** — [**Read more →**](https://github.com/velella-sh/ebb#readme)
 
-<h3><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/oakum-mark-dark.svg">
-  <img src="./assets/oakum-mark-light.svg" width="32" align="absmiddle" alt="Oakum logo">
-</picture>&nbsp;<a href="https://github.com/arminazimi/oakum">Oakum</a> — Changes flow. State holds.</h3>
+---
 
-A planned local testing tool for checking application-state consistency across databases, caches, and message brokers through fault injection and reproducible failure replays.
+## How I build
 
-<sub>Planning · State consistency · Fault injection · Reproducible failures</sub>
+- **Evidence over opinion.** If a tool claims something, it should show where the claim came from.
+- **Honest about the unknown.** Nothing unknown is reported as safe.
+- **Local-first.** Runs on your machine. No account needed.
+- **Built for people and their agents.** Output a human can read and a coding agent can act on.
+- **Small, with one job.** Standard identifiers, no private formats.
 
+## Come help
+
+Ebb is open and the data is the product. The best way in is a single rule: pick something that is about to end, find the authoritative source, and open a pull request. Start with the [contributing guide](https://github.com/velella-sh/ebb/blob/main/CONTRIBUTING.md).
 
 <h2 align="center"><em>If it can fail, it should explain why.</em></h2>
-
