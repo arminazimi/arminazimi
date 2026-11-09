@@ -31,12 +31,6 @@ Software engineer · Open-source builder
   The open almanac of software end-of-life.
 </p>
 
-<p align="center">
-  <a href="https://www.npmjs.com/package/@velella/ebb"><img alt="npm" src="https://img.shields.io/npm/v/@velella/ebb?label=npm&logo=npm&logoColor=white&labelColor=1F1F28&color=3F6E66&style=flat"></a>
-  <a href="https://github.com/velella-sh/ebb/stargazers"><img alt="stars" src="https://img.shields.io/github/stars/velella-sh/ebb?logo=github&logoColor=white&labelColor=1F1F28&color=3F6E66&style=flat"></a>
-  <a href="https://github.com/velella-sh/ebb/tree/main/registry"><img alt="rules: 752" src="https://img.shields.io/badge/rules-752-3F6E66?labelColor=1F1F28&style=flat"></a>
-</p>
-
 Libraries die quietly. A runtime reaches end-of-life, a package gets deprecated, an Action is retired, and nobody tells the code that depends on it. Ebb is the tide table: an open, sourced dataset of what is ending, since when, and what to move to. Every rule cites where it came from, so a tool or a coding agent can answer **"is this still safe to depend on?"** with evidence instead of a guess.
 
 ```ts
