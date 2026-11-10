@@ -47,6 +47,58 @@ request.replacement; // "Native fetch or a maintained HTTP client"
 
 ---
 
+## Also building
+
+<p align="center">
+  <a href="https://github.com/velella-sh/mizzen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/mizzen/main/.github/assets/mark-night.svg">
+      <img src="https://raw.githubusercontent.com/velella-sh/mizzen/main/.github/assets/mark-day.svg" width="72" height="72" alt="Mizzen">
+    </picture>
+  </a>
+</p>
+
+<h3 align="center"><a href="https://github.com/velella-sh/mizzen">Mizzen</a></h3>
+
+<p align="center">
+  <strong>Same input. Same site.</strong>
+</p>
+
+Mizzen is a deterministic docs engine. It turns a folder of Markdown into a fast, right-to-left-ready static site, and every page keeps its exact source positions, so a person or a coding agent can fix the right line.
+
+```sh
+npm install --save-dev @velella/mizzen @velella/lateen
+npx mizzen build . --out dist
+```
+
+**[Read the docs](https://velella.sh/mizzen/)** · **[GitHub](https://github.com/velella-sh/mizzen)** · **[npm](https://www.npmjs.com/package/@velella/mizzen)**
+
+<p align="center">
+  <a href="https://github.com/velella-sh/lateen">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/lateen/main/.github/assets/mark-night.svg">
+      <img src="https://raw.githubusercontent.com/velella-sh/lateen/main/.github/assets/mark-day.svg" width="72" height="72" alt="Lateen">
+    </picture>
+  </a>
+</p>
+
+<h3 align="center"><a href="https://github.com/velella-sh/lateen">Lateen</a></h3>
+
+<p align="center">
+  <strong>Easy to read. Safe to edit.</strong>
+</p>
+
+Lateen is the docs theme for people and agents, built on Mizzen: layouts, components and design tokens that work without JavaScript and are tested against WCAG 2.2 AA.
+
+```yaml
+theme:
+  name: "@velella/lateen"
+```
+
+**[Read the docs](https://velella.sh/lateen/)** · **[GitHub](https://github.com/velella-sh/lateen)** · **[npm](https://www.npmjs.com/package/@velella/lateen)**
+
+---
+
 ## How I build
 
 - **Evidence over opinion.** If a tool claims something, it should show where the claim came from.
