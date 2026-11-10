@@ -15,23 +15,34 @@ Software engineer · Open-source builder
 
 ## Now building
 
-<p align="center">
-  <a href="https://github.com/velella-sh/ebb">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/ebb/main/.github/assets/mark-night.svg">
-      <img src="https://raw.githubusercontent.com/velella-sh/ebb/main/.github/assets/mark-day.svg" width="72" height="72" alt="Ebb">
-    </picture>
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/velella-sh/ebb">Ebb</a></h3>
-
-<p align="center">
-  <strong>Nothing ships forever. Everything ebbs.</strong><br>
-  The open almanac of software end-of-life.
-</p>
-
-Libraries die quietly. A runtime reaches end-of-life, a package gets deprecated, an Action is retired, and nobody tells the code that depends on it. Ebb is the tide table: an open, sourced dataset of what is ending, since when, and what to move to. Every rule cites where it came from, so a tool or a coding agent can answer **"is this still safe to depend on?"** with evidence instead of a guess.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/velella-sh/ebb"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/ebb/main/.github/assets/mark-night.svg"><img src="https://raw.githubusercontent.com/velella-sh/ebb/main/.github/assets/mark-day.svg" width="48" height="48" alt="Ebb"></picture></a>
+      <h3><a href="https://github.com/velella-sh/ebb">Ebb</a></h3>
+      <p><em>Nothing ships forever. Everything ebbs.</em></p>
+      <p>The open almanac of software end-of-life. 752 rules across 25 ecosystems say what is deprecated, unsupported or removed, since when, and what to move to. Every rule cites its source, and it all works offline.</p>
+      <p><a href="https://velella.sh/ebb/">Docs</a> · <a href="https://github.com/velella-sh/ebb">GitHub</a> · <a href="https://www.npmjs.com/package/@velella/ebb">npm</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/velella-sh/mizzen"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/mizzen/main/.github/assets/mark-night.svg"><img src="https://raw.githubusercontent.com/velella-sh/mizzen/main/.github/assets/mark-day.svg" width="48" height="48" alt="Mizzen"></picture></a>
+      <h3><a href="https://github.com/velella-sh/mizzen">Mizzen</a></h3>
+      <p><em>Same input. Same site.</em></p>
+      <p>A deterministic docs engine. It turns a folder of Markdown into a fast, right-to-left-ready static site, and every page keeps its exact source positions.</p>
+      <p><a href="https://velella.sh/mizzen/">Docs</a> · <a href="https://github.com/velella-sh/mizzen">GitHub</a> · <a href="https://www.npmjs.com/package/@velella/mizzen">npm</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/velella-sh/lateen"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/lateen/main/.github/assets/mark-night.svg"><img src="https://raw.githubusercontent.com/velella-sh/lateen/main/.github/assets/mark-day.svg" width="48" height="48" alt="Lateen"></picture></a>
+      <h3><a href="https://github.com/velella-sh/lateen">Lateen</a></h3>
+      <p><em>Easy to read. Safe to edit.</em></p>
+      <p>A docs theme for people and agents, built on Mizzen. It works without JavaScript, mirrors for right-to-left languages, and is tested against WCAG 2.2 AA.</p>
+      <p><a href="https://velella.sh/lateen/">Docs</a> · <a href="https://github.com/velella-sh/lateen">GitHub</a> · <a href="https://www.npmjs.com/package/@velella/lateen">npm</a></p>
+    </td>
+    <td width="50%"></td>
+  </tr>
+</table>
 
 ```ts
 import { lookupProduct } from "@velella/ebb/lookup";
@@ -42,60 +53,6 @@ request.replacement; // "Native fetch or a maintained HTTP client"
 ```
 
 > Your agent's knowledge has a cutoff. Ebb doesn't.
-
-**752 rules · 25 ecosystems · works offline · TypeScript, ESM** — [**Read more →**](https://github.com/velella-sh/ebb#readme)
-
----
-
-## Also building
-
-<p align="center">
-  <a href="https://github.com/velella-sh/mizzen">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/mizzen/main/.github/assets/mark-night.svg">
-      <img src="https://raw.githubusercontent.com/velella-sh/mizzen/main/.github/assets/mark-day.svg" width="72" height="72" alt="Mizzen">
-    </picture>
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/velella-sh/mizzen">Mizzen</a></h3>
-
-<p align="center">
-  <strong>Same input. Same site.</strong>
-</p>
-
-Mizzen is a deterministic docs engine. It turns a folder of Markdown into a fast, right-to-left-ready static site, and every page keeps its exact source positions, so a person or a coding agent can fix the right line.
-
-```sh
-npm install --save-dev @velella/mizzen @velella/lateen
-npx mizzen build . --out dist
-```
-
-**[Read the docs](https://velella.sh/mizzen/)** · **[GitHub](https://github.com/velella-sh/mizzen)** · **[npm](https://www.npmjs.com/package/@velella/mizzen)**
-
-<p align="center">
-  <a href="https://github.com/velella-sh/lateen">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/velella-sh/lateen/main/.github/assets/mark-night.svg">
-      <img src="https://raw.githubusercontent.com/velella-sh/lateen/main/.github/assets/mark-day.svg" width="72" height="72" alt="Lateen">
-    </picture>
-  </a>
-</p>
-
-<h3 align="center"><a href="https://github.com/velella-sh/lateen">Lateen</a></h3>
-
-<p align="center">
-  <strong>Easy to read. Safe to edit.</strong>
-</p>
-
-Lateen is the docs theme for people and agents, built on Mizzen: layouts, components and design tokens that work without JavaScript and are tested against WCAG 2.2 AA.
-
-```yaml
-theme:
-  name: "@velella/lateen"
-```
-
-**[Read the docs](https://velella.sh/lateen/)** · **[GitHub](https://github.com/velella-sh/lateen)** · **[npm](https://www.npmjs.com/package/@velella/lateen)**
 
 ---
 
