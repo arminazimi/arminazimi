@@ -12,7 +12,7 @@ Founder of [Velella](https://github.com/velella-sh). Focused on deterministic st
 
 [![Website](https://img.shields.io/badge/Website-velella.sh-7AA89F?style=flat-square&labelColor=1F1F28)](https://velella.sh)
 [![Founder](https://img.shields.io/badge/Founder-velella--sh-7E9CD8?style=flat-square&labelColor=1F1F28)](https://github.com/velella-sh)
-[![Top Committers](https://img.shields.io/badge/Committers.top-%238%20Iran-E6C384?style=flat-square&labelColor=1F1F28)](https://committers.top/iran#arminazimi)
+[![Top Committers](https://img.shields.io/badge/dynamic/regex?url=https%3A%2F%2Fcommitters.top%2Firan&search=%3Ctr%5Cs%2Bid%3D%22arminazimi%22%5Cs%2A%3E%5Cs%2A%3Ctd%3E%5Cs%2A%28%5B0-9%5D%2B%29%5C.&replace=%23%241+Iran&flags=i&label=Committers.top&color=E6C384&labelColor=1F1F28&style=flat-square)](https://committers.top/iran#arminazimi)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Armin%20Azimi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armin-azimi/)
 
 </div>
